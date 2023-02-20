@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "name": "Tmp Lines Replace",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "id": "line-16"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[1,-30],[2,-81]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "id": "line-6"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[1,38],[2,-51]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "id": "line-3"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[1,-17],[2,-12]]
+        }
+    }]
+}

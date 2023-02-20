@@ -1,0 +1,47 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.tabCompletion": "onlySnippets",
+    "workbench.colorTheme": "Monokai",
+    "python.pythonPath": "/Users/acke2717/opt/anaconda3/python",
+    "python.linting.pylintPath": "/Users/acke2717/opt/anaconda3/bin/pylint",
+    "editor.copyWithSyntaxHighlighting": false,
+    "intelephense.diagnostics.undefinedTypes": false,
+    "intelephense.diagnostics.undefinedMethods": false,
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "css.lint.important": "warning",
+    "css.lint.universalSelector": "warning",
+    "css.lint.zeroUnits": "warning",
+    "git.autoStash": true,
+    "yaml.completion": false,
+    "[yaml]": {
+
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "keep",
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        }
+    },
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "git.fetchOnPull": true,
+    "search.useGlobalIgnoreFiles": true,
+    "editor.fontSize": 14,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "markup.quote.markdown",
+                "settings": {
+                    "foreground": "#BBB7AA"
+                }
+            }
+        ]
+    },
+    "redhat.telemetry.enabled": true,
+    "extensions.ignoreRecommendations": true,
+    "editor.hover.delay": 3000,
+    "yaml.schemaStore.enable": false
+}

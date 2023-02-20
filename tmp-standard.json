@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "name": "Tmp Lines Standard",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "id": "line-12"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[8,2],[-21,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "id": "line-50"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[0,2],[67,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "id": "line-37"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[143,2],[64,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "id": "line-33"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[125,2],[-112,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "id": "line-36"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[-131,2],[106,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "id": "line-45"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[166,2],[54,3]]
+        }
+    }]
+}

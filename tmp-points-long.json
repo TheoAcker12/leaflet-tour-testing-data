@@ -1,0 +1,99 @@
+{
+    "type":"FeatureCollection",
+    "name":"Points with Long Coords",
+    "crs":{
+        "type":"name",
+        "properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},
+    "features":[{
+            "type":"Feature",
+            "properties":{
+                "Color": "green",
+                "Name": "Long Point 1"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-81.67384216432,29.4001869492]
+            }
+        },{
+            "type":"Feature",
+            "properties":{
+                "featureName":"Location 2"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[-81.6396320054,29.19051232]
+            }
+        },{
+            "type":"Feature",
+            "properties":{
+                "notes": "x",
+                "Name": "Long Point 2",
+                "Color": "blue"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-81.5119119466,29.2876323532]
+            }
+        },{
+            "type":"Feature",
+            "properties":{
+            "Name": "Long Point 3",
+            "id": "long-point-3",
+            "notes": "y"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-81.230243421,28.761633266]
+            }
+        },{
+            "type":"Feature",
+            "properties":{
+                "featureName":"Location 5",
+                "y": "z"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-81.342443236,98.5585432]
+            }
+        },{
+            "type":"Feature",
+            "properties":{
+                "Name": "Long Point 4"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-81.51383466755,28.797734421]
+            }
+        },{
+            "type":"Feature",
+            "properties":{
+                "featureName":"Location 7",
+                "z": "z7",
+                "y": "y7"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[29.121436865]
+            }
+        },{
+            "type":"Feature",
+            "properties":{
+                "featureName":"Location 8",
+                "Color": "yellow"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[[-81.7329183920,28.991310293],[-81.51383466755,28.797734421]]
+            }
+        },{
+            "type":"Feature",
+            "properties":{
+                "Color":"purple"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-80.895118492,28.345530492]
+            }
+		}
+   ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "name": "Tmp Lines Remove",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "x": "line-30"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[8,2],[-21,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-17"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[0,2],[67,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-7"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[143,2],[64,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-56"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[125,2],[-112,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-8"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[-131,2],[106,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-4"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[166,2],[54,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-16"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[-45,2],[108,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-13"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[165,2],[-129,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-89"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[-108,2],[-86,3]]
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "x": "line-1"
+        }, "geometry": {
+            "type": "LineString",
+            "coordinates": [[40,2],[-114,3]]
+        }
+    }]
+}
